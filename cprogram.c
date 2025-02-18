@@ -1,4 +1,4 @@
-#include<iostream.h>
+#include<stdio.h>
 void main()
 {
 printf("bmw");
